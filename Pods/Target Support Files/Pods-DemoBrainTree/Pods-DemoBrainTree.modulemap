@@ -1,0 +1,6 @@
+framework module Pods_DemoBrainTree {
+  umbrella header "Pods-DemoBrainTree-umbrella.h"
+
+  export *
+  module * { export * }
+}
